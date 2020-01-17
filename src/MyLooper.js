@@ -1,6 +1,6 @@
 import React from 'react';
-import MyJssInput from './MyJssInput';
-//import MyJssInput from './MyInput';
+//import MyJssInput from './MyJssInput';
+import MyJssInput from './MyInput';
 
 const buildInputs = (max) => {
   const arr = [];

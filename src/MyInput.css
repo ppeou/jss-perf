@@ -7,3 +7,13 @@
   padding: 5px 10px;
   margin: 5px;
 }
+
+.myInput[readonly] {
+  background-color: red;
+  color: yellow;
+}
+
+.myInput[disabled] {
+  background-color: blue;
+  color: black;
+}
